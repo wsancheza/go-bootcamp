@@ -14,4 +14,4 @@ API has two endpoints:
 # Tests
 Due to responses are dinamic depending on hour run, check only static information for City, such as type, id, and country.
 
-It just needs execute command pytest. 
+It just needs execute command `pytest`. 
