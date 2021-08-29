@@ -6,8 +6,8 @@ Language:  `Python 3.9.6`
 API implemented using FastAPI (https://fastapi.tiangolo.com/) and tested using pytest.
 
 API has two endpoints:
-1. /greeting : Only for healt check, it response with "Hello, World"
-2. /wheather/{city} : Fetch from open weather API (https://openweathermap.org/) for City {city}
+1. `/greeting` : Only for healt check, it response with "Hello, World"
+2. `/wheather/{city}` : Fetch from open weather API (https://openweathermap.org/) for City {city}
 
 
 # Installation
