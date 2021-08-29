@@ -12,6 +12,6 @@ API has two endpoints:
 `pip install -r requeriments.txt`
 
 # Tests
-Due to responses are dinamic depending on hour run, check only static information for City, such as type, id, and country.
+Due to responses are dinamic depending on hour run, it check only static information for City, such as type, id, and country.
 
 It just needs execute command `pytest`. 
