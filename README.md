@@ -1,7 +1,9 @@
 # go-bootcamp
 Repository for Go Bootcamp application at Wizeline Academy
 
-API implemented using FastAPI (https://fastapi.tiangolo.com/) and tested using pytest
+Language:  `Python 3.9.6`
+
+API implemented using FastAPI (https://fastapi.tiangolo.com/) and tested using pytest.
 
 API has two endpoints:
 1. /greeting : Only for healt check, it response with "Hello, World"
