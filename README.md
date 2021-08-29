@@ -7,6 +7,10 @@ API has two endpoints:
 1. /greeting : Only for healt check, it response with "Hello, World"
 2. /wheather/{city} : Fetch from open weather API (https://openweathermap.org/) for City {city}
 
+
+# Installation
+`pip install -r requeriments.txt`
+
 Tests
 Due to responses are dinamic depending on hour run, check only static information for City, such as type, id, and country.
 
